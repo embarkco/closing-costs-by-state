@@ -6,6 +6,7 @@ authors:
   - name: "Broker & Agent Solutions"
     website: "https://brokerandagent.com"
 abstract: "Seller and buyer closing costs in all 50 states and the District of Columbia on a $400,000 home and at each state’s median home value: title insurance where each side usually pays for it, settlement, recording and attorney fees, lender charges, and the state and local taxes each side usually pays. State-set costs come from statutes and agencies; other fees are national estimates, stated in the methodology."
+doi: 10.5281/zenodo.23541004
 license: CC-BY-4.0
 url: "https://brokerandagent.com/research/closing-costs-by-state"
 repository: "https://github.com/embarkco/closing-costs-by-state"

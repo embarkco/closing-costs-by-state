@@ -1,10 +1,13 @@
 # Closing costs by U.S. state, 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23541004.svg)](https://doi.org/10.5281/zenodo.23541004)
+
 Seller and buyer closing costs in all 50 states and the District of Columbia on a $400,000 home and at each state’s median home value: title insurance where each side usually pays for it, settlement, recording and attorney fees, lender charges, and the state and local taxes each side usually pays. State-set costs come from statutes and agencies; other fees are national estimates, stated in the methodology.
 
 - **Web page, charts and methodology:** https://brokerandagent.com/research/closing-costs-by-state
 - **Files:** [`data/closing-costs-by-state.csv`](data/closing-costs-by-state.csv) and [`data/closing-costs-by-state.json`](data/closing-costs-by-state.json) (the same rows, with full detail in the JSON)
 - **Coverage:** all 50 states and the District of Columbia
+- **DOI (always the latest version):** [10.5281/zenodo.23541004](https://doi.org/10.5281/zenodo.23541004)
 - **Last updated:** 2026-10-01
 - **Publisher:** [Broker & Agent Solutions](https://brokerandagent.com), a real estate software company in Sarasota, Florida
 
@@ -38,7 +41,7 @@ Costs a state sets (transfer and recording taxes, filed title rates) come from s
 
 ## How to cite
 
-> Broker & Agent Solutions. "Closing costs by U.S. state, 2026." Updated 2026-10-01. https://brokerandagent.com/research/closing-costs-by-state. Licensed under CC BY 4.0.
+> Broker & Agent Solutions. "Closing costs by U.S. state, 2026." Updated 2026-10-01. https://brokerandagent.com/research/closing-costs-by-state. Licensed under CC BY 4.0. https://doi.org/10.5281/zenodo.23541004
 
 More on crediting and versions: https://brokerandagent.com/research/use-our-data
 
