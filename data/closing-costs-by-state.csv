@@ -1,0 +1,52 @@
+state_code,state,seller_costs_400k,seller_pct_400k,buyer_costs_400k,buyer_pct_400k,buyer_with_prepaids_400k,median_home_value_acs_2024,seller_costs_median,buyer_costs_median,seller_biggest_state_cost,buyer_biggest_state_cost,attorney_usually_closes,title_rates_set_by_state,last_checked
+AL,Alabama,2500,0.63,6130,1.53,10318,233300,1750,4429,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+AK,Alaska,2100,0.53,5250,1.31,9438,376500,2018,5062,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+AZ,Arizona,2102,0.53,5252,1.31,9440,426000,2193,5460,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+AR,Arkansas,2760,0.69,5910,1.48,10098,215600,1811,4131,Owner’s title insurance ($1400),Real property transfer tax (half) ($660),false,false,2026-09-30
+CA,California,2540,0.64,5250,1.31,9438,759500,4193,8294,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+CO,Colorado,2100,0.53,5290,1.32,9478,574600,2711,6710,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+CT,Connecticut,5600,1.4,7550,1.89,11738,396900,5569,7514,Conveyance tax ($4000),Owner’s title insurance ($1400),true,false,2026-09-30
+DE,Delaware,9600,2.4,15550,3.89,19738,371600,9032,14656,Realty transfer tax (half) ($8000),Realty transfer tax (half) ($8000),true,false,2026-09-30
+DC,District of Columbia,6500,1.63,12450,3.11,16638,733400,11334,21263,Deed transfer tax ($5800),Deed recordation tax ($5800),false,false,2026-09-30
+FL,Florida,5575,1.39,6535,1.63,10723,396900,5538,6496,Documentary stamp tax ($2800),Documentary stamps on the note ($1120),false,true,2026-09-30
+GA,Georgia,2000,0.5,8510,2.13,12698,343300,1943,7722,Real estate transfer tax ($400),Owner’s title insurance ($1400),true,false,2026-09-30
+HI,Hawaii,1800,0.45,5950,1.49,10138,875900,3985,10861,Owner’s title insurance (half) ($700),Owner’s title insurance (half) ($700),false,false,2026-09-30
+ID,Idaho,2100,0.53,5250,1.31,9438,446400,2262,5621,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+IL,Illinois,3600,0.9,6150,1.54,10338,280700,3003,5196,Owner’s title insurance ($1400),Lender’s title insurance ($500),true,false,2026-09-30
+IN,Indiana,2100,0.53,5250,1.31,9438,243500,1552,3998,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+IA,Iowa,1339,0.33,6650,1.66,10838,227300,1063,4664,Real estate transfer tax ($639),Owner’s title insurance ($1400),false,false,2026-09-30
+KS,Kansas,2100,0.53,5250,1.31,9438,238700,1535,3960,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+KY,Kentucky,1100,0.28,6650,1.66,10838,226000,926,4649,Real estate transfer tax ($400),Owner’s title insurance ($1400),false,false,2026-09-30
+LA,Louisiana,1600,0.4,7550,1.89,11738,223200,1600,5517,,Owner’s title insurance ($1400),true,false,2026-09-30
+ME,Maine,2480,0.62,8430,2.11,12618,341900,2352,7634,Real estate transfer tax (half) ($880),Owner’s title insurance ($1400),true,false,2026-09-30
+MD,Maryland,5100,1.27,11050,2.76,15238,436300,5500,11867,State and county transfer tax (half) ($3000),State and county transfer tax (half) ($3000),false,false,2026-09-30
+MA,Massachusetts,3424,0.86,7550,1.89,11738,607400,4370,9970,Deeds excise tax ($1824),Owner’s title insurance ($1400),true,false,2026-09-30
+MI,Michigan,5540,1.39,5250,1.31,9438,254200,3776,4084,Real estate transfer tax ($3440),Lender’s title insurance ($500),false,false,2026-09-30
+MN,Minnesota,2020,0.51,7386,1.85,11574,344600,1837,6647,Deed tax ($1320),Owner’s title insurance ($1400),false,false,2026-09-30
+MS,Mississippi,3000,0.75,6150,1.54,10338,186500,2253,4442,Owner’s title insurance ($1400),Lender’s title insurance ($500),true,false,2026-09-30
+MO,Missouri,2100,0.53,5250,1.31,9438,254400,1590,4085,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+MT,Montana,2100,0.53,5250,1.31,9438,425400,2189,5453,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+NE,Nebraska,3428,0.86,5250,1.31,9438,263100,2494,4155,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+NV,Nevada,3660,0.92,5250,1.31,9438,455500,4070,5694,Real property transfer tax ($1560),Lender’s title insurance ($500),false,false,2026-09-30
+NH,New Hampshire,3700,0.93,9650,2.41,13838,458800,4141,10767,Real estate transfer tax (half) ($3000),Real estate transfer tax (half) ($3000),false,false,2026-09-30
+NJ,New Jersey,4815,1.2,7550,1.89,11738,496000,5737,8654,Realty transfer fee ($3215),Owner’s title insurance ($1400),true,false,2026-09-30
+NM,New Mexico,2100,0.53,5250,1.31,9438,279900,1680,4289,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+NY,New York,3200,0.8,9950,2.49,14138,449800,3399,10821,Real estate transfer tax ($1600),Mortgage recording tax ($2400),true,false,2026-09-30
+NC,North Carolina,2400,0.6,7550,1.89,11738,333000,2266,6780,Excise tax ($800),Owner’s title insurance ($1400),true,false,2026-09-30
+ND,North Dakota,2100,0.53,5250,1.31,9438,266100,1631,4179,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+OH,Ohio,3700,0.93,5250,1.31,9438,239800,2498,3968,Conveyance fee ($1600),Lender’s title insurance ($500),false,false,2026-09-30
+OK,Oklahoma,2700,0.68,5570,1.39,9758,222100,1810,4005,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+OR,Oregon,2100,0.53,5250,1.31,9438,497500,2441,6030,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+PA,Pennsylvania,4700,1.18,10650,2.66,14838,277600,3476,8019,Realty transfer tax (half) ($4000),Realty transfer tax (half) ($4000),false,false,2026-09-30
+RI,Rhode Island,4600,1.15,7550,1.89,11738,455700,5018,8191,Real estate conveyance tax ($3000),Owner’s title insurance ($1400),true,false,2026-09-30
+SC,South Carolina,3080,0.77,7550,1.89,11738,299500,2708,6394,Deed recording fee ($1480),Owner’s title insurance ($1400),true,false,2026-09-30
+SD,South Dakota,2500,0.63,5250,1.31,9438,289600,2004,4367,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+TN,Tennessee,2100,0.53,7096,1.77,11284,332600,1864,6246,Owner’s title insurance ($1400),Recordation tax ($1480),false,false,2026-09-30
+TX,Texas,2962,0.74,4850,1.21,9038,313200,2533,4156,Owner’s title insurance ($2262),Lender’s title insurance ($100),false,true,2026-09-30
+UT,Utah,2100,0.53,5250,1.31,9438,545200,2608,6412,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+VT,Vermont,1600,0.4,11490,2.87,15678,352800,1600,10253,,Property transfer tax ($3940),true,false,2026-09-30
+VA,Virginia,1100,0.28,9050,2.26,13238,403500,1104,9111,Grantor tax ($400),Owner’s title insurance ($1400),false,false,2026-09-30
+WA,Washington,8500,2.13,5250,1.31,9438,602200,12582,6898,Real estate excise tax ($6400),Lender’s title insurance ($500),false,false,2026-09-30
+WV,West Virginia,2920,0.73,7550,1.89,11738,170800,2164,4914,Excise tax ($1320),Owner’s title insurance ($1400),true,false,2026-09-30
+WI,Wisconsin,3300,0.82,5250,1.31,9438,294700,2615,4408,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
+WY,Wyoming,2100,0.53,5250,1.31,9438,339500,1888,4766,Owner’s title insurance ($1400),Lender’s title insurance ($500),false,false,2026-09-30
